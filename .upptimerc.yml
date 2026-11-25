@@ -6,7 +6,6 @@ sites:
     url: https://faithfully-settling-bird.cloudpub.ru/wb-bidder?cabinet=ooo
     expectedStatusCodes:
       - 200
-      - 401
 
 secrets:
   - NOTIFICATION_TELEGRAM
