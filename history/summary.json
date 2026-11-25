@@ -4,19 +4,19 @@
     "url": "https://faithfully-settling-bird.cloudpub.ru/wb-bidder?cabinet=ooo",
     "icon": "https://icons.duckduckgo.com/ip3/faithfully-settling-bird.cloudpub.ru.ico",
     "slug": "wb-bidder",
-    "status": "down",
-    "uptime": "57.71%",
-    "uptimeDay": "57.71%",
-    "uptimeWeek": "57.71%",
-    "uptimeMonth": "57.71%",
-    "uptimeYear": "57.71%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "status": "up",
+    "uptime": "3.72%",
+    "uptimeDay": "3.72%",
+    "uptimeWeek": "3.72%",
+    "uptimeMonth": "3.72%",
+    "uptimeYear": "3.72%",
+    "time": 687,
+    "timeDay": 687,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2026-11-25": 0
+      "2026-11-25": 8
     }
   }
 ]
